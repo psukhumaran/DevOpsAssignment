@@ -1,6 +1,6 @@
 '''A very simple program,
 showing how short a Python program can be!
-Authors: ___, ___
+Authors: __psukhumaran_, __Sukhumaran
 '''
 buyer = input('enter the name of  buyer: ')
 Seller = input('enter the name of seller: ')
