@@ -1,6 +1,6 @@
 
 #This file is edited by contributor
-
+# I am trying to check get pull
 #This is a nice weather validation program
 x = int(input('enter the temperature outside:'))
 if x < 20:
