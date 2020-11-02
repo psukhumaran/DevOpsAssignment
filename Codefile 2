@@ -1,0 +1,10 @@
+'''A very simple program,
+showing how short a Python program can be!
+Authors: ___, ___
+'''
+buyer = input('enter the name of  buyer: ')
+Seller = input('enter the name of seller: ')
+Product = input('enter the name of product" ')
+Cost = input('enter the cost of the product: ')
+print(buyer, 'is buying', Product, 'from', Seller, 'At the price of :', Cost)
+#This is a stupid comment after the # mark
