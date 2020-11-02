@@ -1,3 +1,6 @@
+
+#This file is edited by contributor
+
 #This is a nice weather validation program
 x = int(input('enter the temperature outside:'))
 if x < 20:
